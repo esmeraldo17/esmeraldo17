@@ -4,6 +4,8 @@
 
 Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
 
+<div align = "center">
+  
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <table>
@@ -50,6 +52,9 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
   </tbody>
 </table>
 <hr>
+  
+</div>
+
 <div align = "center">
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmeraldo17&show_icons=true&theme=dark)
