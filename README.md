@@ -60,7 +60,7 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
 
 <div align = "center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmeraldo17&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmeraldo17&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  <hr>
