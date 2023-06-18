@@ -51,10 +51,6 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
     </tr>
         <tr valign="top">
       </td>
