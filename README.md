@@ -65,7 +65,7 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
       </td>
       <td width="25%" align="center">
         <span><strong>Mongoose</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
+        <img height="64px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*iDvsmUwzZQxJSKdL0xzwIA.png">
       </td>
       <td width="25%" align="center">
         <span><strong>Python</strong>
