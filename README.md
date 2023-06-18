@@ -88,13 +88,11 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
 ✨ Where you can find me ✨
 
 <p align="center">
-  <br/>
-
-  Email: <strong>esmeraldoalberto55@gmail.com<strong/> <br />
-
-  <br/>
   <a href="https://www.linkedin.com/in/esmeraldo-alberto/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
+  <br/>
+  Email: <strong>esmeraldoalberto55@gmail.com<strong/> <br />
+  <br/>
 </p>
 </h1>
