@@ -78,27 +78,14 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
   
 </div>
 
-<div align = "center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=esmeraldo17&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
- <hr>
-
+<div align="center">
+  <a href="https://github.com/esmeraldo17">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=esmeraldo17-&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo17-&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <h1 align="center">
 ✨ Where you can find me ✨
-  
-  <!-- https://img.shields.io/badge/Linkedin-Parth Patel-blue&?style=social&logo=linkedin -->
-
-  <!-- https://img.shields.io/badge/Github-Parth%20Patel-black&?style=social&logo=Github -->
-
-  <!-- https://img.shields.io/badge/Facebook-Parth%20Patel-darkblue&?style=social&logo=Facebook -->
-
-  <!-- https://img.shields.io/badge/Instagram-parth.__.27-red&?style=social&logo=Instagram -->
-
-  <!-- https://img.shields.io/badge/Twitter-Parth%20Patel-blue&?style=social&logo=Twitter -->
 
 <p align="center">
   <br/>
