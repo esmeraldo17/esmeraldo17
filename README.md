@@ -38,15 +38,15 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
       </td>
     </tr>
     <tr valign="top">
-        <td width="25%" align="center">
+      td width="25%" align="center">
+        <span><strong>MySQL</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg">
+      </td>
+      <td width="25%" align="center">
         <span><strong>Redux</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
