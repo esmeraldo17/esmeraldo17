@@ -89,26 +89,12 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/esmeraldo-alberto/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/esmeraldo17">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
 
+  Email: <strong>devgustma@gmail.com<strong/> <br />
 
   <br/>
-  <a href="https://www.facebook.com/esmeraldo.alberto.50">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/esmeraldo_alberto/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  <a href="https://twitter.com/esmeraldoa17">
-    <img src="https://img.shields.io/badge/twitter-%230077D4.svg?&style=flat-square&logo=twitter&logoColor=white">
+  <a href="https://www.linkedin.com/in/esmeraldo-alberto/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
 </p>
 </h1>
