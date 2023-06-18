@@ -25,11 +25,11 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong></span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <span><strong>ReactJS</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong></span><br><br><br>
+        <span><strong>NodeJS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/node.svg">
       </td>
     </tr>
