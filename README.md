@@ -90,7 +90,7 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
 <p align="center">
   <br/>
 
-  Email: <strong>devgustma@gmail.com<strong/> <br />
+  Email: <strong>esmeraldoalberto55@gmail.com<strong/> <br />
 
   <br/>
   <a href="https://www.linkedin.com/in/esmeraldo-alberto/">
