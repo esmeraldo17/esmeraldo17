@@ -70,7 +70,7 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
       <td width="25%" align="center">
         <span><strong>Python</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
       </td>
     </tr>
   </tbody>
