@@ -61,7 +61,7 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
       <td width="25%" align="center">
         <span><strong>Sequelize</strong>
         </span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
+        <img height="64px" src="https://sequelize.org/img/logo.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Mongoose</strong></span><br><br><br>
