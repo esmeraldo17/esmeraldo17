@@ -41,7 +41,7 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
       <td width="25%" align="center">
         <span><strong>MySQL</strong>
         </span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Redux</strong>
