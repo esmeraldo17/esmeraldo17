@@ -31,13 +31,13 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
       <td width="25%" align="center">
         <span><strong>NodeJS</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+    </tr>
+    <tr valign="top">
       </td>
         <td width="25%" align="center">
         <span><strong>MongoDB</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span><strong>MySQL</strong>
         </span><br><br><br>
