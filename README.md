@@ -80,8 +80,8 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
 
 <div align="center">
   <a href="https://github.com/esmeraldo17">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=esmeraldo17-&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo17-&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=esmeraldo17&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmeraldo17&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 <h1 align="center">
