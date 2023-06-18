@@ -64,17 +64,13 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>ExpressJS</strong></span><br><br><br>
+        <span><strong>Mongoose</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Redux</strong>
+        <span><strong>Python</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
