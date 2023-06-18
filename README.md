@@ -5,7 +5,7 @@
   
 ## About Me
 
-Hey My Name is Esmeraldo Alberto, I'm a Web Developer. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list. I Love studying about self-developmentet, i love animals and definetily i love the moon.
+I'm a Web Developer. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list. I Love studying about self-developmentet, i love animals and definetily i love the moon.
   <hr>
 </div>
 
