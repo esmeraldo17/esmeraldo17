@@ -52,14 +52,14 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
     </tr>
-        <tr valign="top">
+    <tr valign="top">
       </td>
         <td width="25%" align="center">
-        <span><strong>MongoDB</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg">
+        <span><strong>Docker</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>MySQL</strong>
+        <span><strong>Sequelize</strong>
         </span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg">
       </td>
