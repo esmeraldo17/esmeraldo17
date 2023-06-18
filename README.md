@@ -18,11 +18,11 @@ Hey My Name is Esmeraldo Alberto, I'm a current web development student at Trybe
     <tr valign="top">
       <td width="25%" align="center">
         <span><strong>TypeScript</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>ReactJS</strong></span><br><br><br>
